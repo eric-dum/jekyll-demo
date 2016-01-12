@@ -3,7 +3,7 @@ title: Material Jekyll Demo
 email: edum4397@gmail.com
 description: >
   Demo used in learning Jekyll.
-baseurl: "/material-jekyll-theme"
+baseurl: "/jekyll-demo"
 fixedNav: 'false' # true or false
 theme: blue # green, blue, orange, purple, grey
 
