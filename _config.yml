@@ -1,18 +1,11 @@
 # Site settings
-title: Alex Carpenter
-email: your-email@domain.com
+title: Material Jekyll Demo
+email: edum4397@gmail.com
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Demo used in learning Jekyll.
 baseurl: "/material-jekyll-theme"
-url: "http://alexcarpenter.me"
-fixedNav: 'true' # true or false
-theme: purple # green, blue, orange, purple, grey
-twitterUsername: hybrid_alex
-githubUsername: alexcarpenter
-dribbbleUsername:
-codepenUsername:
+fixedNav: 'false' # true or false
+theme: blue # green, blue, orange, purple, grey
 
 # Build settings
 permalink: /:year/:month/:title
